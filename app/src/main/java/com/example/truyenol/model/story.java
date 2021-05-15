@@ -1,4 +1,4 @@
-package com.example.truyenol.model;
+ package com.example.truyenol.model;
 
 public class story {
     public int id;
